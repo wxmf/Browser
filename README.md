@@ -1,8 +1,7 @@
 <h1 align="center">BrowserSpoof</h1>
 
 <p align="center">
-  Browser launcher with customizable fingerprint settings built with Python and Selenium.
-</p>
+  Browser launcher with customizable fingerprint settings built with Python and Selenium.</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10+-blue">
